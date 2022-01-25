@@ -17,5 +17,9 @@
   "bugs": {
     "url": "https://github.com/lucashenriquesd/csv-column-mapper/issues"
   },
-  "homepage": "https://github.com/lucashenriquesd/csv-column-mapper#readme"
+  "homepage": "https://github.com/lucashenriquesd/csv-column-mapper#readme",
+  "dependencies": {
+    "csv-parser": "^3.0.0",
+    "csv-writer": "^1.6.0"
+  }
 }

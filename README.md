@@ -1,2 +1,2 @@
 Usage:
-npm start
+npm start <csvPathFile1> <columnNameFile1> <csvPathFile2> <columnNameFile2>
